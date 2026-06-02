@@ -40,31 +40,31 @@ I'm a **full-stack developer** and a CST student at BCIT focused on building cle
   <tr>
     <td align="center" width="33%" valign="top">
       <b>Programming Languages</b><br/><br/>
-      <img width="400" src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,rust&theme=dark&perline=6" /><br/>
-      <img width="95" src="https://skillicons.dev/icons?i=go,elixir&theme=dark&perline=2" />
+      <img width="200" src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark&perline=4" /><br/>
+      <img width="200" src="https://skillicons.dev/icons?i=kotlin,rust,go,elixir&theme=dark&perline=4" />
     </td>
     <td align="center" width="33%" valign="top">
       <b>Libraries</b><br/><br/>
-      <img width="90" src="https://skillicons.dev/icons?i=react,vite&theme=dark&perline=2" />
+      <img width="100" src="https://skillicons.dev/icons?i=react,vite&theme=dark&perline=2" />
     </td>
     <td align="center" width="33%" valign="top">
       <b>Frameworks</b><br/><br/>
-      <img width="135" src="https://skillicons.dev/icons?i=nextjs,fastapi,tailwind&theme=dark&perline=3" />
+      <img width="150" src="https://skillicons.dev/icons?i=nextjs,fastapi,tailwind&theme=dark&perline=3" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
       <b>Databases</b><br/><br/>
-      <img width="180" src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql&theme=dark&perline=4" />
+      <img width="200" src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql&theme=dark&perline=4" />
     </td>
     <td align="center" width="33%" valign="top">
       <b>DevOps</b><br/><br/>
-      <img width="180" src="https://skillicons.dev/icons?i=docker,git,github&theme=dark&perline=4" />
+      <img width="150" src="https://skillicons.dev/icons?i=docker,git,github&theme=dark&perline=3" />
     </td>
     <td align="center" width="33%" valign="top">
       <b>Others</b><br/><br/>
-      <img width="400" src="https://skillicons.dev/icons?i=figma,css,tailwind,obsidian,unreal,r&theme=dark&perline=6" />
-      <img width="95" src="https://skillicons.dev/icons?i=html,css&theme=dark&perline=2" />
+      <img width="200" src="https://skillicons.dev/icons?i=figma,css,tailwind,obsidian&theme=dark&perline=4" />
+      <img width="200" src="https://skillicons.dev/icons?i=unreal,r,html,css&theme=dark&perline=4" />
     </td>
   </tr>
 </table>
