@@ -60,7 +60,7 @@
     </td>
     <td align="center" width="33%" valign="top">
       <b>Others</b><br/><br/>
-      <img width="200" src="https://skillicons.dev/icons?i=figma,css,tailwind,obsidian&theme=dark&perline=4" />
+      <img width="200" src="https://skillicons.dev/icons?i=figma,bootstrap,postman,obsidian&theme=dark&perline=4" />
       <img width="200" src="https://skillicons.dev/icons?i=unreal,r,html,css&theme=dark&perline=4" />
     </td>
   </tr>
