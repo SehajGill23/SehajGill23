@@ -24,10 +24,7 @@
 
 ## ✦ About Me
 
-I'm a **full-stack developer** focused on building clean, scalable, and production-ready software — across frontend, backend, mobile, databases, and deployment.
-
-I like building things that aren't just "works on my machine" projects, but actual real-world software that feels smooth, reliable, and easy to use.
-
+I'm a **full-stack developer** and a CST student at BCIT focused on building clean, scalable, and production-ready software — across frontend, backend, mobile, databases, and deployment.
 **Currently interested in:**
 
 - Full-stack web development and microservices
@@ -43,8 +40,8 @@ I like building things that aren't just "works on my machine" projects, but actu
   <tr>
     <td align="center" width="33%" valign="top">
       <b>Programming Languages</b><br/><br/>
-      <img width="400" src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin&theme=dark&perline=6" /><br/>
-      <img width="135" src="https://skillicons.dev/icons?i=rust,go,elixir&theme=dark&perline=4" />
+      <img width="400" src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,rust&theme=dark&perline=6" /><br/>
+      <img width="95" src="https://skillicons.dev/icons?i=go,elixir&theme=dark&perline=2" />
     </td>
     <td align="center" width="33%" valign="top">
       <b>Libraries</b><br/><br/>
@@ -58,15 +55,16 @@ I like building things that aren't just "works on my machine" projects, but actu
   <tr>
     <td align="center" width="33%" valign="top">
       <b>Databases</b><br/><br/>
-      <img width="180" src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,sqlite&theme=dark&perline=4" />
+      <img width="180" src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql&theme=dark&perline=4" />
     </td>
     <td align="center" width="33%" valign="top">
       <b>DevOps</b><br/><br/>
-      <img width="180" src="https://skillicons.dev/icons?i=docker,aws,git,github&theme=dark&perline=4" />
+      <img width="180" src="https://skillicons.dev/icons?i=docker,git,github&theme=dark&perline=4" />
     </td>
     <td align="center" width="33%" valign="top">
-      <b>Design</b><br/><br/>
-      <img width="135" src="https://skillicons.dev/icons?i=figma,css,tailwind&theme=dark&perline=3" />
+      <b>Others</b><br/><br/>
+      <img width="400" src="https://skillicons.dev/icons?i=figma,css,tailwind,obsidian,unreal,r&theme=dark&perline=6" />
+      <img width="95" src="https://skillicons.dev/icons?i=html,css&theme=dark&perline=2" />
     </td>
   </tr>
 </table>
