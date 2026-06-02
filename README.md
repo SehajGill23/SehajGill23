@@ -45,34 +45,35 @@ I like building things that aren't just "works on my machine" projects, but actu
   <tr>
     <td align="center" width="33%" valign="top">
       <b>Programming Languages</b><br/><br/>
-      <img width="270" src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark&perline=4" /><br/>
-      <img width="202" src="https://skillicons.dev/icons?i=kotlin,go,elixir,c&theme=dark&perline=4" /><br/>
-      <img width="67" src="https://skillicons.dev/icons?i=rust&theme=dark&perline=1" />
+      <img width="180" src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark&perline=4" /><br/>
+      <img width="180" src="https://skillicons.dev/icons?i=kotlin,go,elixir,c&theme=dark&perline=4" /><br/>
+      <img width="45" src="https://skillicons.dev/icons?i=rust&theme=dark&perline=1" />
     </td>
     <td align="center" width="33%" valign="top">
       <b>Libraries</b><br/><br/>
-      <img width="135" src="https://skillicons.dev/icons?i=react,vite&theme=dark&perline=2" />
+      <img width="90" src="https://skillicons.dev/icons?i=react,vite&theme=dark&perline=2" />
     </td>
     <td align="center" width="33%" valign="top">
       <b>Frameworks</b><br/><br/>
-      <img width="202" src="https://skillicons.dev/icons?i=nextjs,fastapi,tailwind&theme=dark&perline=3" />
+      <img width="135" src="https://skillicons.dev/icons?i=nextjs,fastapi,tailwind&theme=dark&perline=3" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
       <b>Databases</b><br/><br/>
-      <img width="270" src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,sqlite&theme=dark&perline=4" />
+      <img width="180" src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,sqlite&theme=dark&perline=4" />
     </td>
     <td align="center" width="33%" valign="top">
       <b>DevOps</b><br/><br/>
-      <img width="270" src="https://skillicons.dev/icons?i=docker,aws,git,github&theme=dark&perline=4" />
+      <img width="180" src="https://skillicons.dev/icons?i=docker,aws,git,github&theme=dark&perline=4" />
     </td>
     <td align="center" width="33%" valign="top">
       <b>Design</b><br/><br/>
-      <img width="202" src="https://skillicons.dev/icons?i=figma,css,tailwind&theme=dark&perline=3" />
+      <img width="135" src="https://skillicons.dev/icons?i=figma,css,tailwind&theme=dark&perline=3" />
     </td>
   </tr>
 </table>
+
 ---
 
 ## ✦ GitHub Stats
