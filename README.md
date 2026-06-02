@@ -1,7 +1,6 @@
-
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:302b63,100:916cdc&text=Sehaj%20Gill&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:302b63,100:916cdc&text=Sehaj%20Gill&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn" 
     alt="Header banner" 
   />
 </p>
@@ -9,7 +8,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=916CDC&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+%2B+TypeScript+Builder;Android+%2B+Backend+Developer;I+build+clean%2C+practical%2C+real-world+software" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=I+am+a+Full-Stack+Developer;I+build+clean+and+scalable+software;Frontend+%2B+Backend+%2B+Mobile+%2B+Cloud" 
       alt="Typing SVG" 
     />
   </a>
@@ -25,6 +24,12 @@
   <a href="https://youtube.com/@Gillsehaj604">
     <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SehajGill23&style=for-the-badge&color=916cdc" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/SehajGill23?style=for-the-badge&color=916cdc&labelColor=1a1b27" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/SehajGill23?style=for-the-badge&color=916cdc&labelColor=1a1b27" alt="GitHub stars" />
 </p>
 
 ---
@@ -76,43 +81,6 @@ I enjoy working on projects where design, architecture, and clean code all come 
 
 ---
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">TrackSpend</h3>
-      <p align="center">
-        <a href="https://github.com/SehajGill23/TrackSpend">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SehajGill23&repo=TrackSpend&theme=tokyonight&hide_border=true&title_color=916cdc&icon_color=916cdc" alt="TrackSpend repo card" />
-        </a>
-      </p>
-      <p>
-        Android expense tracking app built with Kotlin, Jetpack Compose, Room, Flow, and MVVM architecture.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Convertify</h3>
-      <p align="center">
-        <a href="https://github.com/SehajGill23/Convertify">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SehajGill23&repo=Convertify&theme=tokyonight&hide_border=true&title_color=916cdc&icon_color=916cdc" alt="Convertify repo card" />
-        </a>
-      </p>
-      <p>
-        Android + FastAPI app that converts public video links into MP3 files using yt-dlp and FFmpeg.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- 
-  Replace these repo names if your actual GitHub repo names are different.
-  Example:
-  repo=your-actual-repo-name
--->
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -148,17 +116,6 @@ I enjoy working on projects where design, architecture, and clean code all come 
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SehajGill23&theme=tokyo-night&hide_border=true&area=true&color=916cdc&line=916cdc&point=ffffff" 
-    alt="GitHub activity graph" 
-  />
-</p>
-
----
-
 ## Contribution Snake
 
 <p align="center">
@@ -167,17 +124,6 @@ I enjoy working on projects where design, architecture, and clean code all come 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SehajGill23/SehajGill23/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SehajGill23/SehajGill23/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
----
-
-## Random Dev Quote
-
-<p align="center">
-  <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
-    alt="Random developer quote" 
-  />
 </p>
 
 ---
