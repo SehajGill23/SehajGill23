@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=a78bfa&center=true&vCenter=true&width=500&lines=Building+clean%2C+scalable%2C+production-ready+software.;Full-Stack+%E2%80%A2+Mobile+%E2%80%A2+Cloud+%E2%80%A2+APIs;Turning+ideas+into+real-world+applications." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=a78bfa&center=true&vCenter=true&width=500&lines=Building+clean%2C+scalable%2C+production-ready+software.;Full-Stack+%E2%80%A2+Cloud+%E2%80%A2+APIs;Turning+ideas+into+real-world+applications." alt="Typing SVG" />
 </div>
 
 <div align="center">
