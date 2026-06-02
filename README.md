@@ -18,9 +18,6 @@ I’m a full-stack developer focused on building clean, scalable, and production
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SehajGill23&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=SehajGill23&icon=6&color=0)](https://visitcount.itsvg.in)
 
