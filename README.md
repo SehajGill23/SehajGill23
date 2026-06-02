@@ -3,12 +3,9 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:302b63,100:916cdc&text=Sehaj%20Gill&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn" 
     alt="Header banner" 
   />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
+    <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=I+am+a+Full-Stack+Developer;I+build+clean+and+scalable+software;Frontend+%2B+Backend+%2B+Mobile+%2B+Cloud" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=I+am+a+Full-Stack+Developer;I+build+clean+and+scalable+software" 
       alt="Typing SVG" 
     />
   </a>
@@ -26,12 +23,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SehajGill23&style=for-the-badge&color=916cdc" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/SehajGill23?style=for-the-badge&color=916cdc&labelColor=1a1b27" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/SehajGill23?style=for-the-badge&color=916cdc&labelColor=1a1b27" alt="GitHub stars" />
-</p>
-
 ---
 
 ## About Me
@@ -43,7 +34,6 @@ I work across frontend, backend, mobile, databases, and deployment. I like build
 Right now, I’m especially interested in:
 
 - Full-stack web development
-- Android development
 - Backend APIs and microservices
 - Cloud deployment and CI/CD
 - Performance-focused user experiences
@@ -100,17 +90,6 @@ I enjoy working on projects where design, architecture, and clean code all come 
   <img 
     src="https://streak-stats.demolab.com?user=SehajGill23&theme=tokyonight&hide_border=true&ring=916CDC&fire=916CDC&currStreakLabel=916CDC" 
     alt="GitHub streak" 
-  />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=SehajGill23&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" 
-    alt="GitHub trophies" 
   />
 </p>
 
