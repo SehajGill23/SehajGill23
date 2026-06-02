@@ -43,8 +43,8 @@ I like building things that aren't just "works on my machine" projects, but actu
   <tr>
     <td align="center" width="33%" valign="top">
       <b>Programming Languages</b><br/><br/>
-      <img width="600" src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,go,elixir&theme=dark&perline=8" /><br/>
-      <img width="38" src="https://skillicons.dev/icons?i=rust&theme=dark&perline=1" />
+      <img width="400" src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin&theme=dark&perline=6" /><br/>
+      <img width="135" src="https://skillicons.dev/icons?i=rust,go,elixir&theme=dark&perline=4" />
     </td>
     <td align="center" width="33%" valign="top">
       <b>Libraries</b><br/><br/>
