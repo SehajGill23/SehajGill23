@@ -1,7 +1,7 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:302b63,100:916cdc&text=Sehaj%20Gill&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Mobile%20Builder%20%7C%20Cloud%20Deployments&descAlignY=58&descSize=18" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:302b63,100:916cdc&text=Sehaj%20Gill&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer" 
     alt="Header banner" 
   />
 </p>
@@ -25,12 +25,6 @@
   <a href="https://youtube.com/@Gillsehaj604">
     <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SehajGill23&style=for-the-badge&color=916cdc" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/SehajGill23?style=for-the-badge&color=916cdc&labelColor=1a1b27" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/SehajGill23?style=for-the-badge&color=916cdc&labelColor=1a1b27" alt="GitHub stars" />
 </p>
 
 ---
