@@ -1,106 +1,109 @@
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:0f0c29,50:302b63,100:916cdc&text=Sehaj%20Gill&fontColor=ffffff&fontSize=54&fontAlignY=35&animation=fadeIn&desc=I%20am%20a%20Full-Stack%20Developer%20and%20Computer%20Science%20Student%20based%20in%20Vancouver,%20BC&descAlignY=56&descSize=17" 
-    alt="Sehaj Gill Header Banner" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0a0a0f,30:0f0c29,70:1a1040,100:2d1b69&text=Sehaj%20Gill&fontColor=ffffff&fontSize=62&fontAlignY=38&fontAlign=50&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Vancouver,%20BC&descAlignY=56&descSize=17&descAlign=50" alt="Header" />
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=a78bfa&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable%2C+production-ready+software.;Full-Stack+%E2%80%A2+Mobile+%E2%80%A2+Cloud+%E2%80%A2+APIs;Turning+ideas+into+real-world+applications." alt="Typing SVG" />
+</p>
+
+<br/>
+
+<p align="center">
   <a href="https://linkedin.com/in/gill-sehaj">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:gillsehaj633@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://youtube.com/@Gillsehaj604">
-    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## About Me
+## ✦ About Me
 
-I’m a full-stack developer focused on building clean, scalable, and production-ready software.
+I'm a **full-stack developer** focused on building clean, scalable, and production-ready software — across frontend, backend, mobile, databases, and deployment.
 
-I work across frontend, backend, mobile, databases, and deployment. I like building applications that are not just “it works on my machine” projects, but actual real-world software that feels smooth, reliable, and easy to use.
+I like building things that aren't just "works on my machine" projects, but actual real-world software that feels smooth, reliable, and easy to use.
 
-Right now, I’m especially interested in:
+**Currently interested in:**
 
-- Full-stack web development
-- Backend APIs and microservices
-- Cloud deployment and CI/CD
-- Performance-focused user experiences
-- Building products that solve real problems
-
-I enjoy working on projects where design, architecture, and clean code all come together. Basically, I like making software that looks good, runs well, and does not randomly explode in production.
+- Full-stack web development and microservices
+- Backend APIs with real performance and reliability
+- Cloud deployment and CI/CD pipelines
+- Products where design, architecture, and clean code converge
 
 ---
 
-## Tech Stack
+## ✦ Tech Stack
 
-### Languages
-
-<p align="left">
-  <img width="520" src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,c,elixir,ocaml,rust,html,css,md" alt="Languages" />
-</p>
-
-### Frontend
-
-<p align="left">
-  <img width="300" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,figma" alt="Frontend tools" />
-</p>
-
-### Backend & APIs
-
-<p align="left">
-  <img width="400" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,sqlite,supabase,mongodb" alt="Backend tools" />
-</p>
-
-### Tools & Deployment
-
-<p align="left">
-  <img width="400" src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman,vercel,cloudflare" alt="Tools and deployment" />
-</p>
-
----
-
-## GitHub Stats
-
-<table>
+<table width="100%" border="0" cellspacing="0" cellpadding="20">
   <tr>
-    <td width="50%" align="center">
-      <img 
-        src="https://streak-stats.demolab.com?user=SehajGill23&theme=tokyonight&hide_border=true&ring=916CDC&fire=916CDC&currStreakLabel=916CDC" 
-        alt="GitHub Streak" 
-      />
+    <td align="center" width="33%" valign="top">
+      <b>Programming Languages</b><br/><br/>
+      <img width="270" src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark&perline=4" /><br/>
+      <img width="202" src="https://skillicons.dev/icons?i=kotlin,go,elixir,c&theme=dark&perline=4" /><br/>
+      <img width="67" src="https://skillicons.dev/icons?i=rust&theme=dark&perline=1" />
     </td>
-    <td width="50%" align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SehajGill23&layout=compact&theme=tokyonight&hide_border=true&title_color=916cdc&text_color=ffffff&bg_color=0d1117" 
-        alt="Top Languages" 
-      />
+    <td align="center" width="33%" valign="top">
+      <b>Libraries</b><br/><br/>
+      <img width="135" src="https://skillicons.dev/icons?i=react,vite&theme=dark&perline=2" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>Frameworks</b><br/><br/>
+      <img width="202" src="https://skillicons.dev/icons?i=nextjs,fastapi,tailwind&theme=dark&perline=3" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <b>Databases</b><br/><br/>
+      <img width="270" src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,sqlite&theme=dark&perline=4" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>DevOps</b><br/><br/>
+      <img width="270" src="https://skillicons.dev/icons?i=docker,aws,git,github&theme=dark&perline=4" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>Design</b><br/><br/>
+      <img width="202" src="https://skillicons.dev/icons?i=figma,css,tailwind&theme=dark&perline=3" />
     </td>
   </tr>
 </table>
+---
+
+## ✦ GitHub Stats
+
+<p align="center">
+  <img
+    width="56%"
+    src="https://streak-stats.demolab.com/?user=SehajGill23&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    alt="GitHub Streak"
+  />
+  <img
+    width="40%"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=SehajGill23&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
-## Contribution Snake
+## ✦ Contribution Activity
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SehajGill23/SehajGill23/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SehajGill23/SehajGill23/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SehajGill23/SehajGill23/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SehajGill23/SehajGill23/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
 ---
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:916cdc,50:302b63,100:0f0c29" 
-    alt="Footer banner" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2d1b69,50:1a1040,100:0a0a0f" alt="Footer" />
 </p>
