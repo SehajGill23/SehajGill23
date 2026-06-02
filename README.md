@@ -1,14 +1,8 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:302b63,100:916cdc&text=Sehaj%20Gill&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn" 
-    alt="Header banner" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:0f0c29,50:302b63,100:916cdc&text=Sehaj%20Gill&fontColor=ffffff&fontSize=54&fontAlignY=35&animation=fadeIn&desc=I%20am%20a%20Full-Stack%20Developer%20and%20Computer%20Science%20Student%20based%20in%20Vancouver,%20BC&descAlignY=56&descSize=17" 
+    alt="Sehaj Gill Header Banner" 
   />
-    <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello,+I+am+Sehaj,+and+I+am+a+Full-Stack+Developer+and+a+comp+science+student+based+in+Vancouver,+BC;I+build+clean+and+scalable+software" 
-      alt="Typing SVG" 
-    />
-  </a>
 </p>
 
 <p align="center">
@@ -47,51 +41,48 @@ I enjoy working on projects where design, architecture, and clean code all come 
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,c,elixir,ocaml,rust,html,css,md" alt="Languages" />
+<p align="left">
+  <img width="520" src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,c,elixir,ocaml,rust,html,css,md" alt="Languages" />
 </p>
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,figma" alt="Frontend tools" />
+<p align="left">
+  <img width="300" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,figma" alt="Frontend tools" />
 </p>
 
 ### Backend & APIs
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,sqlite,supabase,mongodb" alt="Backend tools" />
+<p align="left">
+  <img width="400" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,sqlite,supabase,mongodb" alt="Backend tools" />
 </p>
 
 ### Tools & Deployment
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman,vercel,cloudflare" alt="Tools and deployment" />
+<p align="left">
+  <img width="400" src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman,vercel,cloudflare" alt="Tools and deployment" />
 </p>
 
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=SehajGill23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=916cdc&icon_color=916cdc" 
-    alt="GitHub stats" 
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SehajGill23&layout=compact&theme=tokyonight&hide_border=true&title_color=916cdc" 
-    alt="Top languages" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=SehajGill23&theme=tokyonight&hide_border=true&ring=916CDC&fire=916CDC&currStreakLabel=916CDC" 
-    alt="GitHub streak" 
-  />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img 
+        src="https://streak-stats.demolab.com?user=SehajGill23&theme=tokyonight&hide_border=true&ring=916CDC&fire=916CDC&currStreakLabel=916CDC" 
+        alt="GitHub Streak" 
+      />
+    </td>
+    <td width="50%" align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SehajGill23&layout=compact&theme=tokyonight&hide_border=true&title_color=916cdc&text_color=ffffff&bg_color=0d1117" 
+        alt="Top Languages" 
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
