@@ -24,7 +24,7 @@
 
 ## ✦ About Me
 
-- I'm a **full-stack developer** and a CST graduate from BCIT focused on building clean, scalable, and production-ready softwares
+- I am a **full-stack developer** and a CST graduate from BCIT focused on building clean, scalable, and production-ready softwares
 - I am always curious to explore new technologies and turning them into practical software solutions that can actually bring a change 
 - Currently I am really into **machine learning** and exploring how it can be used to build smarter, more practical software solutions
 - My goal is to keep growing as a developer by building projects that challenge me and push me to improve.
